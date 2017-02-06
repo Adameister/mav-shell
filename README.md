@@ -1,5 +1,6 @@
 # mav-shell
 Fully functional shell using existing software from the linux OS. Created for CSE 3320 OS class.
+The msh is coded in C.
 
 Programming Assignment 1
 CSE 3320 - 002
